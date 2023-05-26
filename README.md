@@ -57,6 +57,10 @@ Enabled
 
 ## Changelog
 
+**2023-05-26**
+
+- remove unused kext
+
 **2023-05-14**
 
 - update to Opencore 0.9.2
