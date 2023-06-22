@@ -2,7 +2,7 @@
 
 ![about](https://raw.githubusercontent.com/xiecang/Hackintosh-B760M-12490F-6600xt/master/images/about.png)
 
-**Opencore Bootloader 0.9.2. Tested on Ventura 13.2.1**
+**Opencore Bootloader 0.9.2. Tested on Ventura 13.4.1**
 
 ## Introdution
 
@@ -56,6 +56,11 @@ Enabled
 - Legacy RTC Device
 
 ## Changelog
+
+**2023-06-22**
+
+- support receiving update push
+- tested on Ventura 13.4.1
 
 **2023-05-26**
 
