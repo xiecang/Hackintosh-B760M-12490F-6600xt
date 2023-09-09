@@ -2,7 +2,7 @@
 
 ![about](https://raw.githubusercontent.com/xiecang/Hackintosh-B760M-12490F-6600xt/master/images/about.png)
 
-**Opencore Bootloader 0.9.4. Tested on Ventura 13.5.1**
+**Opencore Bootloader 0.9.4. Tested on Ventura 13.5.2**
 
 ## Introdution
 
