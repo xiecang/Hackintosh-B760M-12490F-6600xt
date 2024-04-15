@@ -2,7 +2,7 @@
 
 ![about](https://raw.githubusercontent.com/xiecang/Hackintosh-B760M-12490F-6600xt/master/images/about.png)
 
-**Opencore Bootloader 0.9.6. Tested on Ventura 13.6**
+**Opencore Bootloader 0.9.9. Tested on Ventura 13.6.6**
 
 ## Introdution
 
@@ -56,6 +56,15 @@ Enabled
 - Legacy RTC Device
 
 ## Changelog
+
+**2024-04-15**
+
+**WARNING: You need to generate a new SMBIOS before updating to this version.**
+
+- change SystemProductName to iMacPro1,1 ([#7](https://github.com/xiecang/Hackintosh-B760M-12490F-6600xt/issues/7))
+- update to Opencore 0.9.9
+- KEXTs up to date
+- tested on Ventura 13.6.6
 
 **2023-09-23**
 
