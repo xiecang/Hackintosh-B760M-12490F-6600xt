@@ -2,7 +2,7 @@
 
 ![about](https://raw.githubusercontent.com/xiecang/Hackintosh-B760M-12490F-6600xt/master/images/about.png)
 
-**Opencore Bootloader 0.9.9. Tested on Ventura 13.6.6**
+**Opencore Bootloader 1.0.5. Tested on Ventura 15.7.1**
 
 ## Introdution
 
@@ -56,6 +56,14 @@ Enabled
 - Legacy RTC Device
 
 ## Changelog
+
+**2025-10-25**
+
+**The Broadcom network card requires patching using [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)**
+
+- update to Opencore 1.0.5
+- KEXTs up to date
+- tested on Ventura 15.7.1
 
 **2024-04-15**
 
